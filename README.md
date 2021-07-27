@@ -12,13 +12,17 @@
 
 ## I'm a Student, Undergraduate, Developer, and Learner!
 
-- 🔭 I’m currently working on DSA!
-- 🌱 I’m currently learning WebDev
-- 📖 Founder and Technical lead @Devs'Street : A community with 500+ active members!
-- 👯 I’m looking to collaborate for hackathons and projects.
+- 🔭 I’m currently working on DSA, Artificial Inteligence & Machine Learning.
+- 🌱 I’m currently learning Data Science & Algorithms.
+- 👯 I’m looking to collaborate on Data Analytics ,Artificial Inteligence retated projects ,hackathons and projects & YouTube .
+- 🤔 I’m looking for help with Cloud Computing ,open cv & projects.
+- 💬 Ask me about Python & Tech related stuffs.
 - 🎤 Looking for opportunities to manage and host events as well!
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn more!
-- ⚡ Fun fact: I love to watch web-series/movies and listen music.
+- 📫 How to reach me: Linkedin[@iamyuvan](https://www.linkedin.com/in/yuvan-shanker-37b36019a/) , Twitter[ @iamyuvan](https://twitter.com/shanker_yuvan)...
+- 📫 Mail ID [yuvanshanker0506@gmail.com]
+- 😄 Pronouns: He/His...
+- ⚡ Fun fact:THERE IS no SECRET INGREDIENT...
 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
@@ -84,11 +88,11 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 </p>
 
-[linkedin]: https://www.linkedin.com/in/subham-choudhury
-[medium]: https://medium.com/@subhamchoudhury2408
+[linkedin]: https://www.linkedin.com/in/yuvan-shanker-37b36019a/
+[medium]: https://medium.com/@yuvanshanker0506
 [gmail]: mailto:yuvanshanker0506@gmail.com
 [whatsapp]: https://wa.me/9940510836
-[telegram]: https://telegram.me/Subham_24
-[twitter]: https://twitter.com/SubhamC_14
-[instagram]: https://www.instagram.com/the_skywalker_14
+[telegram]: https://t.me/Yuvanshanker_0506
+[twitter]: https://twitter.com/shanker_yuvan
+[instagram]: https://www.instagram.com/y.u.v.a.n_/
 [github]: https://github.com/Yuvanshanker
