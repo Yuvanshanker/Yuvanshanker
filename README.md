@@ -83,7 +83,7 @@
  
  ---
  
-<h2 align="left">Sad Day? Let me get a smile on your face :wink:</h2>
+<h2 align="left">Sad Day? Let me get a smile on your face :😉😜:</h2>
 <p align="left">
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 </p>
